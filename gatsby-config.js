@@ -2,5 +2,5 @@ module.exports = {
   siteMetadata: {
     title: 'Design+Code 3',
   },
-  plugins: ['gatsby-plugin-react-helmet'],
+  plugins: ['gatsby-plugin-react-helmet', 'gatsby-plugin-typescript'],
 }
