@@ -1,0 +1,48 @@
+{
+    "cells": [
+        {
+            "title": "Intro to React",
+            "image": "https://drive.google.com/file/d/1K2rQG7N-2yaCtvLgXTDvrjJ1lWnB-GTx/view?usp=sharing"
+        },
+        {
+            "title": "Basic Styling in CSS",
+            "image": "https://drive.google.com/file/d/1K2rQG7N-2yaCtvLgXTDvrjJ1lWnB-GTx/view?usp=sharing"
+        },
+        {
+            "title": "Adaptive Layout with CSS Grid",
+            "image": "https://drive.google.com/file/d/1K2rQG7N-2yaCtvLgXTDvrjJ1lWnB-GTx/view?usp=sharing"
+        },
+        {
+            "title": "Interactions and Animations",
+            "image": "https://drive.google.com/file/d/1K2rQG7N-2yaCtvLgXTDvrjJ1lWnB-GTx/view?usp=sharing"
+        },
+        {
+            "title": "SVG Animation",
+            "image": "https://drive.google.com/file/d/1K2rQG7N-2yaCtvLgXTDvrjJ1lWnB-GTx/view?usp=sharing"
+        },
+        {
+            "title": "Components and Props",
+            "image": "https://drive.google.com/file/d/1K2rQG7N-2yaCtvLgXTDvrjJ1lWnB-GTx/view?usp=sharing"
+        },
+        {
+            "title": "Static Data with JSON",
+            "image": "https://drive.google.com/file/d/1K2rQG7N-2yaCtvLgXTDvrjJ1lWnB-GTx/view?usp=sharing"
+        },
+        {
+            "title": "States and Events",
+            "image": "https://drive.google.com/file/d/1K2rQG7N-2yaCtvLgXTDvrjJ1lWnB-GTx/view?usp=sharing"
+        },
+        {
+            "title": "GrapgQL with Contentful",
+            "image": "https://drive.google.com/file/d/1K2rQG7N-2yaCtvLgXTDvrjJ1lWnB-GTx/view?usp=sharing"
+        },
+        {
+            "title": "Publish to Netify",
+            "image": "https://drive.google.com/file/d/1K2rQG7N-2yaCtvLgXTDvrjJ1lWnB-GTx/view?usp=sharing"
+        },
+        {
+            "title": "Payment with Stripe Checkout",
+            "image": "https://drive.google.com/file/d/1K2rQG7N-2yaCtvLgXTDvrjJ1lWnB-GTx/view?usp=sharing"
+        }
+    ]
+}

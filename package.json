@@ -8,6 +8,7 @@
     "gatsby-link": "^1.6.40",
     "gatsby-plugin-react-helmet": "^2.0.10",
     "gatsby-plugin-typescript": "^2.0.9",
+    "gatsby-source-contentful": "^2.0.35",
     "react": "^16.8.3",
     "react-helmet": "^5.2.0",
     "react-scripts": "2.1.5",
